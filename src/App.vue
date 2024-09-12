@@ -1,15 +1,18 @@
 <template>
-  <img alt="unisimon logo" src="./assets/uso logo.png">
-  <headerPage msg="INVENTARIO DE PRUEBAS DEL PROGRAMA DE PSICOLOGIA"/>
+  <img class="unisimon_logo" alt="unisimon_logo" src="./assets/uso logo.png">
+  <HeaderPage msg="INVENTARIO DE PRUEBAS DEL PROGRAMA DE PSICOLOGIA"/>
+  <ContentPage/>
 </template>
 
 <script>
 import HeaderPage from './components/HeaderPage.vue'
+import ContentPage from './components/ContentPage.vue';
 
 export default {
   name: 'App',
   components: {
-    HeaderPage
+    HeaderPage,
+    ContentPage
   }
 }
 </script>
@@ -20,7 +23,14 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  color: #000;
+  margin-top: 0px;
 }
+
+.unisimon_logo {
+  background-color: white;
+  width: 30%;
+}
+
+
 </style>
