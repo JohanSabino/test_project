@@ -13,6 +13,7 @@ export default {
   components: {
     HeaderPage,
     ContentPage
+    
   }
 }
 </script>
@@ -26,11 +27,8 @@ export default {
   color: #000;
   margin-top: 0px;
 }
-
 .unisimon_logo {
   background-color: white;
   width: 30%;
 }
-
-
 </style>
