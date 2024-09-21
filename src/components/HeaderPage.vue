@@ -2,9 +2,9 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Querido equipo profesoral <br> Acá podrá encontrar el inventario de pruebas actuales   
+      Bienvenido/a <br> Acá podrá encontrar el inventario de pruebas actuales   
       en el laboratorio de psicometría, 
-      disponibles para su uso académico e investigativo.
+      disponibles para uso académico e investigativo.
     </p>
   </div>
 </template>

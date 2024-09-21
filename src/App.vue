@@ -1,7 +1,8 @@
 <template>
-  <img class="unisimon_logo" alt="unisimon_logo" src="./assets/uso logo.png">
-  <HeaderPage msg="INVENTARIO DE PRUEBAS DEL PROGRAMA DE PSICOLOGIA"/>
-  <ContentPage/>
+   <div>
+    <HeaderPage msg="INVENTARIO DE PRUEBAS - PSICOMETRÍA"/>
+    <ContentPage/>
+  </div>
 </template>
 
 <script>
@@ -12,8 +13,7 @@ export default {
   name: 'App',
   components: {
     HeaderPage,
-    ContentPage
-    
+    ContentPage,
   }
 }
 </script>
