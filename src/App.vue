@@ -1,11 +1,24 @@
 <template>
-   <div>
-    <HeaderPage msg="INVENTARIO DE PRUEBAS - PSICOMETRÍA"/>
+  <div>
+    <v-row>
+      <v-col cols="12" md="1">
+      
+      </v-col>
+      <v-col cols="12" md="10">
+        <div id="header">
+          <HeaderPage msg="INVENTARIO DE PRUEBAS - PSICOMETRÍA"/>
+        </div> 
+      </v-col>
+      <v-col cols="12" md="1"> 
+        <v-btn class="toggle-theme" @click="toggleTheme">🌙</v-btn>
+      </v-col>
+  </v-row>
     <ContentPage/>
   </div>
 </template>
 
 <script>
+import { useTheme } from 'vuetify'
 import HeaderPage from './components/HeaderPage.vue'
 import ContentPage from './components/ContentPage.vue';
 
@@ -14,6 +27,15 @@ export default {
   components: {
     HeaderPage,
     ContentPage,
+  },
+  setup() {
+    const theme = useTheme()
+
+    function toggleTheme() {
+      theme.global.name.value = theme.global.name.value === 'dark' ? 'light' : 'dark'
+    }
+
+    return { toggleTheme }
   }
 }
 </script>
@@ -24,11 +46,27 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #000;
   margin-top: 0px;
 }
-.unisimon_logo {
-  background-color: white;
-  width: 30%;
+
+#header {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.toggle-theme {
+  position: fixed;
+  top: 20px;
+  right: 30px;
+  z-index: 1000;
+  background-color: #444;
+  color: white;
+  border-radius: 50%;
+  padding: 10px;
+  transition: 0.3s;
+}
+
+.toggle-theme:hover {
+  background-color: #222;
 }
 </style>

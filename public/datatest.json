@@ -1,722 +1,722 @@
 [
-    {
-        "id": 1,
-        "title": "Cuestionario de Asertión en la Pareja",
-        "acronym": "AC",
-        "area": "Asper Clínica Sistémica",
-        "description": "El ASPA sirve para evaluar cuatro tipos de estrategias de comunicación que cada miembro de una pareja puede poner en marcha para afrontar situaciones problemáticas corrientes en la convivencia. Estas estrategias son: Asertiva, Agresiva, Sumisa y Agresivo-Pasiva.",
-        "image": "url_de_la_imagen_1.jpg",
-        "copies": 1
-    },
-    {
-        "id": 2,
-        "title": "Escala de Satisfacción Familiar por Adjetivos",
-        "acronym": "ESFA",
-        "area": "Clínica Sistémica",
-        "description": "Construido con adjetivos, trata de evocar respuestas preferentemente afectivas, para medir los sentimientos, positivos o negativos, que se despiertan en el sujeto y que tienen su origen en las interacciones (verbales o físicas) que se producen entre él y los demás miembros de su familia.",
-        "image": "url_de_la_imagen_2.jpg",
-        "copies": 1
-    },
-    {
-        "id": 3,
-        "title": "Escala de Estilos de Socialización Parental en la Adolescencia",
-        "acronym": "ESPA",
-        "area": "Clínica Sistémica",
-        "description": "El adolescente valora cuál es la reacción de cada progenitor ante 29 situaciones relevantes de su vida diaria. Estas valoraciones permiten obtener medidas de la Aceptación / Implicación y Coerción / Imposición que manifiesta cada padre, así como medidas más específicas: Afecto, Indiferencia, Diálogo, Displicencia, Privación, Coerción Verbal y Coerción Física.",
-        "image": "url_de_la_imagen_3.jpg",
-        "copies": 1
-    },
-    {
-        "id": 4,
-        "title": "Escala de Inteligencia Wechsler para Preescolar y Primaria III",
-        "acronym": "WPPSI-III",
-        "area": "Clínica de Inteligencia y Desarrollo Escolar",
-        "description": "Evaluación completa de la capacidad intelectual de los niños de 2 años y medio a 7 años y 3 meses, que ofrece tres índices principales: CI Total, CI Verbal y CI Manipulativo.",
-        "image": "url_de_la_imagen_4.jpg",
-        "copies": 1
-    },
-    {
-        "id": 5,
-        "title": "Escala de Inteligencia Wechsler para Niños IV",
-        "acronym": "WICS-IV",
-        "area": "Clínica de Inteligencia y Desarrollo Escolar",
-        "description": "Evaluación de la capacidad intelectual de los niños de 6 años 0 meses a 16 años 11 meses.",
-        "image": "url_de_la_imagen_5.jpg",
-        "copies": 1
-    },
-    {
-        "id": 6,
-        "title": "Escala Wechsler para Adultos III",
-        "acronym": "WAIS-III",
-        "area": "Clínica de Inteligencia y Desarrollo Escolar",
-        "description": "Evaluación de la capacidad intelectual de los adultos de 16 a 94 años.",
-        "image": "url_de_la_imagen_6.jpg",
-        "copies": 1
-    },
-    {
-        "id": 7,
-        "title": "Instrumento No Verbal de Inteligencia III",
-        "acronym": "BETA-III",
-        "area": "Clínica de Inteligencia y Desarrollo Escolar",
-        "description": "Evaluar de manera rápida las capacidades intelectuales no verbales de los adultos.",
-        "image": "url_de_la_imagen_7.jpg",
-        "copies": 1
-    },
-    {
-        "id": 8,
-        "title": "Prueba de Inteligencia Otis",
-        "acronym": "OTIS",
-        "area": "Clínica de Inteligencia y Desarrollo Escolar, RRHH",
-        "description": "Evaluación de la capacidad intelectual mediante un cuestionario tipo ómnibus, para adultos.",
-        "image": "url_de_la_imagen_8.jpg",
-        "copies": 1
-    },
-    {
-        "id": 9,
-        "title": "Test de Clasificación de Tarjetas de Wisconsin",
-        "acronym": "WISC-ONSIN",
-        "area": "Clínica Neuropsicológica",
-        "description": "Evaluación neuropsicológica de varios componentes de las funciones ejecutivas, como el razonamiento abstracto, la formación de categorías, la solución de problemas y la perseverancia, para personas de 6 años y medio a 89 años.",
-        "image": "url_de_la_imagen_9.jpg",
-        "copies": 1
-    },
-    {
-        "id": 10,
-        "title": "Test de Aptitudes Diferenciales VDAT-V",
-        "acronym": "VDAT-V",
-        "area": "Clínica de Inteligencia y Desarrollo, Aptitudes",
-        "description": "Batería para la evaluación de aptitudes. Nivel 1: de 1º a 4º curso de ESO, Ciclos Formativos de Grado Medio y adultos. Nivel 2: 1º y 2º de Bachillerato, Ciclos Formativos de Grado Superior y adultos.",
-        "image": "url_de_la_imagen_10.jpg",
-        "copies": 1
-    },
-    {
-        "id": 11,
-        "title": "Test de Orientación Motivacional",
-        "acronym": "TOM",
-        "area": "RRHH - Motivación e Intereses",
-        "description": "Evaluación de las principales motivaciones u orientaciones laborales. Evalúa cuatro tendencias motivacionales: Orientación a los objetivos, Orientación a la innovación, Orientación al liderazgo y Orientación a las relaciones. Además, incluye una escala para evaluar la deseabilidad social.",
-        "image": "url_de_la_imagen_11.jpg",
-        "copies": 1
-    },
-    {
-        "id": 12,
-        "title": "Escala de Motivaciones Psicosociales",
-        "acronym": "MPS",
-        "area": "RRHH - Motivación e Intereses",
-        "description": "Proporciona información en relación con 6 áreas motivacionales y cinco componentes de las mismas, sobre todo en el ámbito laboral. Para adultos.",
-        "image": "url_de_la_imagen_12.jpg",
-        "copies": 1
-    },
-    {
-        "id": 13,
-        "title": "Inventario de Intereses y Preferencias Profesionales Revisado",
-        "acronym": "IPP-R",
-        "area": "Escolar, RRHH - Motivación e Intereses",
-        "description": "Apreciación de los intereses en 15 campos de actividad profesional, teniendo en cuenta las profesiones y las actividades correspondientes. Para adolescentes y adultos.",
-        "image": "url_de_la_imagen_13.jpg",
-        "copies": 1
-    },
-    {
-        "id": 14,
-        "title": "Cuestionario General de Intereses",
-        "acronym": "KUDE-R",
-        "area": "Escolar, RRHH - Motivación e Intereses",
-        "description": "Evaluar intereses de modo general, tanto en estudiantes de nivel primario (últimos años) y secundario como en adultos que reingresan al mercado laboral.",
-        "image": "url_de_la_imagen_14.jpg",
-        "copies": 1
-    },
-    {
-        "id": 15,
-        "title": "Inventario de Ansiedad Rasgo-Estado",
-        "acronym": "IDARE",
-        "area": "Clínica - Ansiedad, Estrés y Depresión",
-        "description": "Medir dos dimensiones de ansiedad: Estado (se refiere a cómo se siente el sujeto en ese momento) y Rasgo (cómo se siente generalmente). Para personas con nivel educativo medio-superior en adelante.",
-        "image": "url_de_la_imagen_15.jpg",
-        "copies": 1
-    },
-    {
-        "id": 16,
-        "title": "Examen Cognoscitivo MiniMental",
-        "acronym": "MINIMENTAL",
-        "area": "Clínica - Neuropsicología",
-        "description": "Adaptación española de una de las pruebas clínicas más reconocidas y utilizadas para la valoración de las funciones cognitivas y del estado mental en adultos.",
-        "image": "url_de_la_imagen_16.jpg",
-        "copies": 1
-    },
-    {
-        "id": 17,
-        "title": "Clima Laboral",
-        "acronym": "CLA",
-        "area": "RRHH - Salud Laboral",
-        "description": "Cuestionario para la evaluación del ambiente laboral en la empresa que ofrece una puntuación global del clima y de 8 dimensiones diferentes agrupadas en dos grandes ejes: persona y empresa.",
-        "image": "url_de_la_imagen_17.jpg",
-        "copies": 1
-    },
-    {
-        "id": 18,
-        "title": "Cuestionario de Personalidad para Niños",
-        "acronym": "CPQ",
-        "area": "Clínica, Escolar - Personalidad",
-        "description": "Evaluación de 14 rasgos de primer orden y 3 dimensiones globales de la personalidad en niños en edad escolar. Incluye una escala de Habilidad mental o Inteligencia, en niños de 8 a 12 años de edad (de 3º de Primaria a 1.º de la ESO).",
-        "image": "url_de_la_imagen_18.jpg",
-        "copies": 1
-    },
-    {
-        "id": 19,
-        "title": "Cuestionario de Personalidad para Adolescentes",
-        "acronym": "16 PFAPQ",
-        "area": "Clínica, Escolar - Personalidad",
-        "description": "Evaluación de 16 variables de la personalidad y 5 dimensiones globales en adolescentes. Incluye una sección dedicada a la evaluación de preferencias ocupacionales y otra a los problemas personales, para adolescentes entre 12 y 19 años (De 1º de E.S.O. a 2º de Bachillerato).",
-        "image": "url_de_la_imagen_19.jpg",
-        "copies": 1
-    },
-    {
-        "id": 20,
-        "title": "Cuestionario de Personalidad de 16 Factores V",
-        "acronym": "16 PF5",
-        "area": "Clínica, Escolar, RRHH - Personalidad",
-        "description": "Evaluación de 16 escalas primarias y 5 dimensiones globales de la personalidad en sujetos normales.",
-        "image": "url_de_la_imagen_20.jpg",
-        "copies": 1
-    },
-    {
-        "id": 21,
-        "title": "Inventario Multifásico de Personalidad de Minnesota",
-        "acronym": "MMPI-2",
-        "area": "Clínica - Psicopatología y Forense",
-        "description": "Evaluación de la personalidad normal y patológica en adultos.",
-        "image": "url_de_la_imagen_21.jpg",
-        "copies": 1
-    },
-    {
-        "id": 22,
-        "title": "Inventario de Evaluación de la Personalidad",
-        "acronym": "PAI",
-        "area": "Clínica - Psicopatología y Forense",
-        "description": "Evaluación de las características de la personalidad más relevantes en la evaluación clínica y forense, para adultos.",
-        "image": "url_de_la_imagen_22.jpg",
-        "copies": 1
-    },
-    {
-        "id": 23,
-        "title": "Test de Apercepción Temática",
-        "acronym": "TAT, CATA, CAT-H",
-        "area": "Clínica - Proyectivos",
-        "description": "Evaluación de diversos aspectos de la personalidad (impulsos, emociones, sentimientos, complejos, conflictos, etc.) en situaciones clínicas y normales. CAT de 3 a 10 años y TAT de 14 años en adelante.",
-        "image": "url_de_la_imagen_23.jpg",
-        "copies": 1
-    },
-    {
-        "id": 24,
-        "title": "Test de Casa, Árbol y Persona",
-        "acronym": "HTP",
-        "area": "Clínica - Proyectivos, Escolar - Proyectivos",
-        "description": "Evaluación de la forma en que los sujetos experimentan su yo en relación con los demás y con su ambiente familiar. Facilita la proyección de los elementos de la personalidad del evaluado y sus áreas de conflicto. Evalúa personalidad de los 8 años en adelante.",
-        "image": "url_de_la_imagen_24.jpg",
-        "copies": 1
-    },
-    {
-        "id": 25,
-        "title": "Test Grafosómico de Personalidad",
-        "acronym": "WART-EGG",
-        "area": "Clínica - Proyectivos, RRHH - Personalidad",
-        "description": "Análisis de aspectos dinámicos de la personalidad, manejo de ansiedades y frustraciones; expectativas, ambiciones y proyecto de vida; utilización de energía vital para el logro de objetivos en adultos.",
-        "image": "url_de_la_imagen_25.jpg",
-        "copies": 1
-    },
-    {
-        "id": 26,
-        "title": "Test de Dibujo de 2 Figuras",
-        "acronym": "T2F",
-        "area": "Clínica - Proyectivos, Escolar - Proyectivos",
-        "description": "Evaluación, de manera objetiva y precisa, de los aspectos madurativos y emocionales del niño de 5 a 12 años.",
-        "image": "url_de_la_imagen_26.jpg",
-        "copies": 1
-    },
-    {
-        "id": 27,
-        "title": "Test Gestáltico Visomotor",
-        "acronym": "BENDER",
-        "area": "Clínica - Neuropsicología",
-        "description": "Exploración del nivel de maduración de los niños y adultos deficientes, de la pérdida de función y defectos cerebrales orgánicos en adultos y en niños, así como de las desviaciones de la personalidad, en especial fenómenos de regresión. Evalúa personas a partir de los 4 años.",
-        "image": "url_de_la_imagen_27.jpg",
-        "copies": 1
-    },
-    {
-        "id": 28,
-        "title": "Test de Copia de una Figura Compleja",
-        "acronym": "REY",
-        "area": "Clínica - Neuropsicología",
-        "description": "Prueba clásica de gran utilidad clínica y muy usada en neuropsicología para la evaluación de la capacidad visoperceptiva y visomotora y de la memoria visoespacial. Evalúa personas de 4 a 15 años y adultos con alteraciones cognitivas.",
-        "image": "url_de_la_imagen_28.jpg",
-        "copies": 1
-    },
-    {
-        "id": 29,
-        "title": "Diagnóstico Neuropsicológico de Adultos",
-        "acronym": "LURIA DNA",
-        "area": "Clínica - Neuropsicología",
-        "description": "Examen neuropsicológico de los procesos corticales superiores (Lenguaje, Memoria, Atención y Funciones visoespaciales) y sus trastornos siguiendo el modelo de Luria. Para adultos y niños a partir de 7 años.",
-        "image": "url_de_la_imagen_29.jpg",
-        "copies": 1
-    },
-    {
-        "id": 30,
-        "title": "Test de Barcelona",
-        "acronym": "TBR",
-        "area": "Clínica - Neuropsicología",
-        "description": "Evaluar procesos cognitivos, detección de afasias. Mide cuantitativa y cualitativamente los rendimientos de los pacientes de 5 años hasta los 90 años.",
-        "image": "url_de_la_imagen_30.jpg",
-        "copies": 1
-    },
-    {
-        "id": 31,
-        "title": "Evaluación Neuropsicológica Infantil",
-        "acronym": "ENI",
-        "area": "Clínica - Neuropsicología",
-        "description": "Evaluar las características neuropsicológicas de niños y jóvenes en edad escolar (5 a 16 años). Valorar las características de las habilidades cognoscitivas y conductuales que se considera reflejo de la integridad del Sistema Nervioso Central.",
-        "image": "url_de_la_imagen_31.jpg",
-        "copies": 1
-    },
-    {
-        "id": 32,
-        "title": "Evaluación Neuropsicológica Infantil 2",
-        "acronym": "ENI-2",
-        "area": "Clínica - Neuropsicología",
-        "description": "Evaluar las características neuropsicológicas de niños y jóvenes en edad escolar (5 a 16 años). Valorar las características de las habilidades cognoscitivas y conductuales que se considera reflejo de la integridad del Sistema Nervioso Central.",
-        "image": "url_de_la_imagen_32.jpg",
-        "copies": 1
-    },
-    {
-        "id": 33,
-        "title": "Competencias Académicas Básicas",
-        "acronym": "CAB",
-        "area": "Escolar - Intereses Profesionales",
-        "description": "Optimizar el rendimiento académico en estudiantes de nivel primaria y secundaria por medio de diversos ejercicios, lecturas, estrategias de autocontrol de comportamientos y técnicas de estudio que permitan a los alumnos adquirir un aprendizaje significativo de los distintos temas que comprenden los programas escolares, para estudiantes de último grado de primaria y de nivel secundaria.",
-        "image": "url_de_la_imagen_33.jpg",
-        "copies": 1
-    },
-    {
-        "id": 34,
-        "title": "Método de Evaluación de Percepción Visual",
-        "acronym": "FROSTIG",
-        "area": "Clínica - Neuropsicología, Escolar - Neuropsicología",
-        "description": "Prueba para la evaluación de retrasos en la madurez perceptiva de niños de 4 a 7 años, con dificultades de aprendizaje. Evalúa los siguientes aspectos de la percepción visual: Coordinación visomotora, Discriminación figura-fondo, Constancia de forma, Posiciones en el espacio y Relaciones espaciales.",
-        "image": "url_de_la_imagen_34.jpg",
-        "copies": 1
-    },
-    {
-        "id": 35,
-        "title": "Test Breve de Inteligencia de Kaufman",
-        "acronym": "K-BIT",
-        "area": "Clínica - Inteligencia y Desarrollo, Escolar - Inteligencia y Desarrollo",
-        "description": "Evaluación de la capacidad intelectual verbal y no verbal. Para personas de 4 a 90 años.",
-        "image": "url_de_la_imagen_35.jpg",
-        "copies": 1
-    },
-    {
-        "id": 36,
-        "title": "Test de Matrices Progresivas de Raven",
-        "acronym": "RAVEN",
-        "area": "Clínica - Inteligencia y Desarrollo, Escolar - Inteligencia y Desarrollo",
-        "description": "Medida de la “educción de relaciones” para personas de 12 a 65 años.",
-        "image": "url_de_la_imagen_36.jpg",
-        "copies": 1
-    },
-    {
-        "id": 37,
-        "title": "Inventario Clínico Multiaxial de Millon III",
-        "acronym": "MILLON-III",
-        "area": "Clínica - Personalidad, Clínica - Psicopatología y Forense",
-        "description": "Evaluación de 4 escalas de control, 11 patrones clínicos de personalidad, 3 rasgos patológicos, 7 síndromes de gravedad moderada y 3 síndromes de gravedad severa, en adultos.",
-        "image": "url_de_la_imagen_37.jpg",
-        "copies": 1
-    },
-    {
-        "id": 38,
-        "title": "Escala de Violencia en el Trabajo (Mobbing)",
-        "acronym": "EVT",
-        "area": "RRHH - Salud Laboral",
-        "description": "Evaluar 16 factores relacionados con el mobbing, clasificados en cuatro grupos: Hostigamiento y destrucción, Aislamiento emocional, Dominación y desprecio, Hostilidad encubierta. En personal en edad laboral.",
-        "image": "url_de_la_imagen_38.jpg",
-        "copies": 1
-    },
-    {
-        "id": 39,
-        "title": "Instrumento de Codependencia",
-        "acronym": "ICOD",
-        "area": "Clínica - Familia y Pareja",
-        "description": "Detectar la prevalencia de codependencia y sus factores asociados en mujeres de 18 a 65 años y describir los factores asociados con la presencia de este problema.",
-        "image": "url_de_la_imagen_39.jpg",
-        "copies": 1
-    },
-    {
-        "id": 40,
-        "title": "Batería Neuropsicológica Breve Atención y Memoria",
-        "acronym": "NEUROPSI",
-        "area": "Clínica - Neuropsicología, Escolar - Neuropsicología",
-        "description": "Evalúa un amplio espectro de funciones cognoscitivas en pacientes psiquiátricos, geriátricos, neurológicos y pacientes con diversos problemas médicos. Para pacientes de 16 a 85 años.",
-        "image": "url_de_la_imagen_40.jpg",
-        "copies": 1
-    },
-    {
-        "id": 41,
-        "title": "Escala de Desgaste Ocupacional (Burnout)",
-        "acronym": "EDO",
-        "area": "RRHH - Salud Laboral",
-        "description": "Evaluar, a través de la aplicación de 130 reactivos, el desgaste ocupacional en adultos dentro de su vida laboral, para personas en edad laboral.",
-        "image": "url_de_la_imagen_41.jpg",
-        "copies": 1
-    },
-    {
-        "id": 42,
-        "title": "Test de Aptitudes Diferenciales",
-        "acronym": "DAT",
-        "area": "Clínica - Inteligencia y Desarrollo, Escolar - Aptitudes",
-        "description": "Batería para la evaluación de aptitud. Nivel 1: de 1º a 4º curso de ESO, Ciclos Formativos de Grado Medio y adultos. Nivel 2: 1º y 2º de Bachillerato, Ciclos Formativos de Grado Superior y adultos.",
-        "image": "url_de_la_imagen_42.jpg",
-        "copies": 1
-    },
-    {
-        "id": 43,
-        "title": "Escala de Memoria Wechsler IV",
-        "acronym": "WMS-IV",
-        "area": "Clínica - Memoria",
-        "description": "Evaluación de la memoria en profundidad para personas de 18 a 89 años.",
-        "image": "url_de_la_imagen_43.jpg",
-        "copies": 1
-    },
-    {
-        "id": 44,
-        "title": "Escala de Aptitudes y Psicomotricidad para Niños",
-        "acronym": "McCARTHY",
-        "area": "Clínica - Inteligencia y Desarrollo, Escolar - Inteligencia y Desarrollo",
-        "description": "Evaluación del desarrollo cognitivo y psicomotor en niños de 2 años y medio hasta 8 años y medio.",
-        "image": "url_de_la_imagen_44.jpg",
-        "copies": 1
-    },
-    {
-        "id": 45,
-        "title": "Escala de Ansiedad Manifiesta en Niños Revisada",
-        "acronym": "CMAS R-2",
-        "area": "Clínica - Ansiedad, Estrés y Depresión",
-        "description": "Evaluar en nivel y naturaleza la ansiedad en niños, a través de respuestas sí o no dentro de un formato, para niños y adolescentes de 6 a 19 años.",
-        "image": "url_de_la_imagen_45.jpg",
-        "copies": 1
-    },
-    {
-        "id": 46,
-        "title": "Inventario Autodescriptivo del Adolescente",
-        "acronym": "IADA",
-        "area": "Clínica - Adaptación y Conducta, Escolar - Adaptación y Conducta",
-        "description": "Descripción de diversas dimensiones del ambiente del adolescente basada en la descripción que el adolescente hace de sí mismo. Evaluar la presencia de algunos indicadores de riesgo de conductas problemáticas en adolescentes de 13 a 19 años.",
-        "image": "url_de_la_imagen_46.jpg",
-        "copies": 1
-    },
-    {
-        "id": 47,
-        "title": "Rorschach Test",
-        "acronym": "RORSCHACH",
-        "area": "Clínica - Proyectivos",
-        "description": "Método proyectivo de psicodiagnóstico creado para la evaluación de diversos aspectos de la personalidad profunda. Para jóvenes y adultos.",
-        "image": "url_de_la_imagen_47.jpg",
-        "copies": 1
-    },
-    {
-        "id": 48,
-        "title": "Sistema de Evaluación para Personas Plurideficientes",
-        "acronym": "SEPP",
-        "area": "Clínica - Intervención",
-        "description": "Evaluación de personas afectadas por deficiencias múltiples: psíquicas, sensoriales y/o físicas.",
-        "image": "url_de_la_imagen_48.jpg",
-        "copies": 1
-    },
-    {
-        "id": 49,
-        "title": "Test de Goodenough",
-        "acronym": "GOOD ENOUGH",
-        "area": "Clínica - Inteligencia y Desarrollo, Escolar - Inteligencia y Desarrollo",
-        "description": "Medir el nivel mental del niño, en forma individual o colectiva.",
-        "image": "url_de_la_imagen_49.jpg",
-        "copies": 1
-    },
-    {
-        "id": 50,
-        "title": "La Afasia: Material de Exploración",
-        "acronym": "LA AFASIA",
-        "area": "Clínica - Intervención",
-        "description": "Diagnóstico, exploración e intervención de las diversas topologías afásicas.",
-        "image": "url_de_la_imagen_50.jpg",
-        "copies": 1
-    },
-    {
-        "id": 51,
-        "title": "Escala de Ansiedad Manifiesta en Adultos",
-        "acronym": "AMAS",
-        "area": "Clínica - Ansiedad, Estrés y Depresión",
-        "description": "Evaluar el nivel de ansiedad experimentado por personas adultas (adultez temprana, edad media y adultez tardía o ancianidad). A: 19-59 años, E: 60 o más años, C: estudiantes universitarios.",
-        "image": "url_de_la_imagen_51.jpg",
-        "copies": 1
-    },
-    {
-        "id": 52,
-        "title": "Test de Habilidades Mentales Primarias",
-        "acronym": "THURSTONE",
-        "area": "Clínica - Inteligencia y Desarrollo",
-        "description": "Evalúa la inteligencia a partir de diferentes aptitudes (Comprensión verbal, comprensión espacial, Raciocinio, Manejo de números, Fluidez verbal) de forma independiente entre ellas, ayudando a identificar habilidades en el individuo.",
-        "image": "url_de_la_imagen_52.jpg",
-        "copies": 1
-    },
-    {
-        "id": 53,
-        "title": "Inventario de Satisfacción Marital Revisado",
-        "acronym": "MSI-R",
-        "area": "Clínica - Familia y Pareja",
-        "description": "Identifica los factores de tensión que originan conflictos en la pareja, enfocándose en las posibilidades de implementar un trabajo de intervención. Para parejas sin rango de edad.",
-        "image": "url_de_la_imagen_53.jpg",
-        "copies": 1
-    },
-    {
-        "id": 54,
-        "title": "Test de Apercepción Temática",
-        "acronym": "TAT",
-        "area": "Clínica - Proyectivos",
-        "description": "Evaluación de diversos aspectos de la personalidad (impulsos, emociones, sentimientos, complejos, conflictos, etc.) en situaciones clínicas y normales, en adultos.",
-        "image": "url_de_la_imagen_54.jpg",
-        "copies": 1
-    },
-    {
-        "id": 55,
-        "title": "Cuestionario de Conductas Antisociales y Delictivas",
-        "acronym": "A-D",
-        "area": "Clínica - Adaptación y Conducta, Escolar - Adaptación y Conducta",
-        "description": "Cuestionario factorial de 40 elementos que evalúa la conducta antisocial y el comportamiento delictivo (fuera de la ley). En jóvenes de 11-19 años.",
-        "image": "url_de_la_imagen_55.jpg",
-        "copies": 1
-    },
-    {
-        "id": 56,
-        "title": "Test de Apercepción Infantil",
-        "acronym": "CAT-A",
-        "area": "Clínica - Proyectivos",
-        "description": "Método proyectivo para explorar la personalidad estudiando el sentido dinámico de las diferencias individuales en la percepción de estímulos visuales en niños de 3 a 10 años.",
-        "image": "url_de_la_imagen_56.jpg",
-        "copies": 1
-    },
-    {
-        "id": 57,
-        "title": "Procesos Evolutivos - Escala Observacional del Desarrollo",
-        "acronym": "EOD17",
-        "area": "Clínica - Intervención, Clínica - Inteligencia y Desarrollo",
-        "description": "Instrumento diagnóstico del estado de desarrollo, del nacimiento hasta la adolescencia.",
-        "image": "url_de_la_imagen_57.jpg",
-        "copies": 1
-    },
-    {
-        "id": 58,
-        "title": "Batería de Aptitudes Diferenciales Generales",
-        "acronym": "BADYG",
-        "area": "Clínica - Inteligencia y Desarrollo",
-        "description": "Discriminar aptitudes básicas en escolares de 4 a 6 años al mismo tiempo que se obtienen estimaciones de aptitudes más generales como factores de grupo y de la más general, de Inteligencia General.",
-        "image": "url_de_la_imagen_58.jpg",
-        "copies": 1
-    },
-    {
-        "id": 59,
-        "title": "Prueba de Frases Incompletas - Aplicación a la Industria",
-        "acronym": "FIGS",
-        "area": "RRHH - Personalidad",
-        "description": "Evaluar la posibilidad de una integración conveniente del examinando a la organización de trabajo.",
-        "image": "url_de_la_imagen_59.jpg",
-        "copies": 1
-    },
-    {
-        "id": 60,
-        "title": "Evaluación Psicogerontológica",
-        "acronym": "PSICO GERONTOL",
-        "area": "Clínica - Psicogeriatría",
-        "description": "Recopilación de instrumentos de evaluación en psicogerontología, el objetivo de cada instrumento, enfatizando su importancia y justificación.",
-        "image": "url_de_la_imagen_60.jpg",
-        "copies": 1
-    },
-    {
-        "id": 61,
-        "title": "Escala de Evaluación de Habilidades Sociales para Adolescentes",
-        "acronym": "EESH-A",
-        "area": "Escolar - Adaptación y Conducta",
-        "description": "Medida de las habilidades sociales en población adolescente.",
-        "image": "url_de_la_imagen_61.jpg",
-        "copies": 1
-    },
-    {
-        "id": 62,
-        "title": "Manual de Psicoterapia Breve y de Urgencia",
-        "acronym": "BELLA K",
-        "area": "Clínica - Intervención",
-        "description": "Surgió como una necesidad de brindar apoyo rápido y concreto para aquellos pacientes que, por el contexto en que se encontraban, era muy difícil proporcionarles un tratamiento más prolongado y profundo para sus problemas.",
-        "image": "url_de_la_imagen_62.jpg",
-        "copies": 1
-    },
-    {
-        "id": 63,
-        "title": "Inventario de Calidad de Vida",
-        "acronym": "InCaViSa",
-        "area": "Clínica - Ansiedad, Estrés y Depresión",
-        "description": "Medir la calidad de vida de pacientes en una escala lo suficientemente inclusiva como para emplearse en cualquier condición crónica o aguda y sensible al efecto de las intervenciones.",
-        "image": "url_de_la_imagen_63.jpg",
-        "copies": 1
-    },
-    {
-        "id": 64,
-        "title": "Prueba Psicológica de Memoria y Aprendizaje Visual",
-        "acronym": "DCS",
-        "area": "Clínica - Neuropsicología",
-        "description": "Evaluar de manera cualitativa y cuantitativa la memoria y el aprendizaje visuales en personas con alteraciones neuropsicológicas.",
-        "image": "url_de_la_imagen_64.jpg",
-        "copies": 1
-    },
-    {
-        "id": 65,
-        "title": "Perfil de Estrés",
-        "acronym": "NOWACK",
-        "area": "Clínica - Ansiedad, Estrés y Depresión",
-        "description": "Evalúa 15 áreas relacionadas con el estrés y el riesgo para la salud en las personas de 20 a 68 años.",
-        "image": "url_de_la_imagen_65.jpg",
-        "copies": 1
-    },
-    {
-        "id": 66,
-        "title": "Inventario de Personalidad",
-        "acronym": "P-IPG",
-        "area": "RRHH - Personalidad",
-        "description": "Medir rasgos estables de la personalidad y un factor de autoestima relacionados con la adaptación y la eficiencia del sujeto en situaciones sociales, educativas y laborales. Evalúa adolescentes y adultos.",
-        "image": "url_de_la_imagen_66.jpg",
-        "copies": 1
-    },
-    {
-        "id": 67,
-        "title": "Sucesos de Vida",
-        "acronym": "VIDA",
-        "area": "Clínica - Ansiedad, Estrés y Depresión",
-        "description": "Detectar problemas emocionales en adolescentes de 13 a 18 años, a partir de los sucesos estresantes a los que el individuo se ha enfrentado y la evaluación afectiva que hace de tales sucesos.",
-        "image": "url_de_la_imagen_67.jpg",
-        "copies": 1
-    },
-    {
-        "id": 68,
-        "title": "Escala Gilliam para Evaluar Trastorno de Asperger",
-        "acronym": "GADS",
-        "area": "Clínica - Autismo",
-        "description": "Ayuda en la identificación de personas que padecen trastorno de Asperger y diferenciar los rasgos con los de otros trastornos, para personas de 3 a 22 años de edad.",
-        "image": "url_de_la_imagen_68.jpg",
-        "copies": 1
-    },
-    {
-        "id": 69,
-        "title": "Escala Multidimensional de Asertividad",
-        "acronym": "EMA",
-        "area": "Clínica - Autoestima",
-        "description": "Evalúa el tipo y grado de asertividad que presente el individuo, para adolescentes de 15 años en adelante y adultos.",
-        "image": "url_de_la_imagen_69.jpg",
-        "copies": 1
-    },
-    {
-        "id": 70,
-        "title": "Entrevista para Síndromes Psiquiátricos en Niños y Adolescentes",
-        "acronym": "ChIPS",
-        "area": "Clínica - Psicopatología y Forense",
-        "description": "Obtener información de manera rápida y eficiente que permita al clínico sondear la presencia de 20 trastornos en niños y adolescentes (6 a 18 años).",
-        "image": "url_de_la_imagen_70.jpg",
-        "copies": 1
-    },
-    {
-        "id": 71,
-        "title": "Test de Habilidades de Negociación",
-        "acronym": "NEGO",
-        "area": "RRHH - Aptitudes",
-        "description": "Evaluación de diferentes aspectos implicados en la negociación (ascendencia, sumisión, argumentos, respuestas vulgares, etc.) para adolescentes y adultos.",
-        "image": "url_de_la_imagen_71.jpg",
-        "copies": 1
-    },
-    {
-        "id": 72,
-        "title": "Búsqueda Autodirigida",
-        "acronym": "SDS",
-        "area": "Clínica - Aptitudes",
-        "description": "Indagar junto con el alumno la relación entre actividades, habilidades y ocupaciones que le permitan reconocer sus capacidades, rendimiento, motivaciones e intereses, aptitudes y personalidad. Para personas con estudios a partir del nivel medio.",
-        "image": "url_de_la_imagen_72.jpg",
-        "copies": 1
-    },
-    {
-        "id": 73,
-        "title": "Cuestionario de Evaluación de Calidad de Vida en Alumnos Adolescentes",
-        "acronym": "CCVA",
-        "area": "Clínica - Adaptación y Conducta",
-        "description": "Dirigido a alumnos entre 12 y 18 años con Necesidades Educativas Especiales (N.E.E) y sin ellas, evaluando: Bienestar emocional, Integración en la comunidad, Relaciones interpersonales, Desarrollo personal, Bienestar físico, Autodeterminación y Bienestar material.",
-        "image": "url_de_la_imagen_73.jpg",
-        "copies": 1
-    },
-    {
-        "id": 74,
-        "title": "Cuestionario de Sobre Ingesta Alimentaria",
-        "acronym": "OQ",
-        "area": "Clínica - Trastornos de Alimentación",
-        "description": "Evalúa hábitos, pensamientos y actitudes vinculados con el sobrepeso y la obesidad, con el fin de planear programas de reducción de peso personalizados y eficaces.",
-        "image": "url_de_la_imagen_74.jpg",
-        "copies": 1
-    },
-    {
-        "id": 75,
-        "title": "Cuestionario de Conductas Antisociales en Infancia y Adolescencia",
-        "acronym": "CASIA",
-        "area": "Clínica - Adaptación y Conducta",
-        "description": "Evaluación de la conducta antisocial de niños y adolescentes de 8 a 15 años.",
-        "image": "url_de_la_imagen_75.jpg",
-        "copies": 1
-    },
-    {
-        "id": 76,
-        "title": "Cuestionario de Rasgos Temperamentales",
-        "acronym": "THURSTONE-T",
-        "area": "Clínica - Personalidad",
-        "description": "Descubrir estos aspectos temperamentales de los individuos adolescentes y adultos.",
-        "image": "url_de_la_imagen_76.jpg",
-        "copies": 1
-    },
-    {
-        "id": 77,
-        "title": "Inventario MacArthur de Desarrollo de Habilidades Comunicativas",
-        "acronym": "CDI",
-        "area": "Clínica - Inteligencia y Desarrollo",
-        "description": "Evaluar las habilidades de comunicación en niños de 8 a 30 meses de edad.",
-        "image": "url_de_la_imagen_77.jpg",
-        "copies": 1
-    },
-    {
-        "id": 78,
-        "title": "Batería Neuropsicológica de Funciones Ejecutivas y Lóbulos Frontales",
-        "acronym": "BANFE-2",
-        "area": "Clínica - Neuropsicológica",
-        "description": "Tiene el objetivo de evaluar el desarrollo de las Funciones Ejecutivas en personas de habla hispana desde los 6 años de edad hasta la edad adulta (80 años).",
-        "image": "url_de_la_imagen_78.jpg",
-        "copies": 1
-    },
-    {
-        "id": 79,
-        "title": "Evaluación Global de Estrés Postraumático",
-        "acronym": "EGEP-5",
-        "area": "Clínica - Ansiedad, Estrés y Depresión",
-        "description": "Evaluación de la sintomatología y diagnóstico del trastorno por estrés postraumático (TEPT) según los criterios del DSM-5 en víctimas adultas de distintos acontecimientos traumáticos.",
-        "image": "url_de_la_imagen_79.jpg",
-        "copies": 1
-    },
-    {
-        "id": 80,
-        "title": "Escala de Evaluación de Psicopatía Hare Revisada",
-        "acronym": "PCL-R",
-        "area": "Clínica - Psicopatología y Forense",
-        "description": "Instrumento de medida de la psicopatía en contextos forenses, clínicos y de investigación.",
-        "image": "https://crimipedia.umh.es/files/2015/06/PCL-R.jpg",
-        "copies": 1
-    }
+  {
+    "id": 1,
+    "title": "Cuestionario de Asertión en la Pareja",
+    "acronym": "ASPA",
+    "area": "Asper Clínica Sistémica",
+    "description": "El ASPA sirve para evaluar cuatro tipos de estrategias de comunicación que cada miembro de una pareja puede poner en marcha para afrontar situaciones problemáticas corrientes en la convivencia. Estas estrategias son: Asertiva, Agresiva, Sumisa y Agresivo-Pasiva.",
+    "image": "https://static.cegal.es/imagenes/marcadas/9788415/978841526291.gif",
+    "copies": 1
+  },
+  {
+    "id": 2,
+    "title": "Escala de Satisfacción Familiar por Adjetivos",
+    "acronym": "ESFA",
+    "area": "Clínica Sistémica",
+    "description": "Construido con adjetivos, trata de evocar respuestas preferentemente afectivas, para medir los sentimientos, positivos o negativos, que se despiertan en el sujeto y que tienen su origen en las interacciones (verbales o físicas) que se producen entre él y los demás miembros de su familia.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5DY6Usz-BNwEsMg6-u1-EVBAaN1EB4PogQ&s",
+    "copies": 1
+  },
+  {
+    "id": 3,
+    "title": "Escala de Estilos de Socialización Parental en la Adolescencia",
+    "acronym": "ESPA",
+    "area": "Clínica Sistémica",
+    "description": "El adolescente valora cuál es la reacción de cada progenitor ante 29 situaciones relevantes de su vida diaria. Estas valoraciones permiten obtener medidas de la Aceptación / Implicación y Coerción / Imposición que manifiesta cada padre, así como medidas más específicas: Afecto, Indiferencia, Diálogo, Displicencia, Privación, Coerción Verbal y Coerción Física.",
+    "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/ca/88/ca88d0595b31a9e46688c47b7b463353.jpg",
+    "copies": 1
+  },
+  {
+    "id": 4,
+    "title": "Escala de Inteligencia Wechsler para Preescolar y Primaria III",
+    "acronym": "WPPSI-III",
+    "area": "Clínica de Inteligencia y Desarrollo Escolar",
+    "description": "Evaluación completa de la capacidad intelectual de los niños de 2 años y medio a 7 años y 3 meses, que ofrece tres índices principales: CI Total, CI Verbal y CI Manipulativo.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074480818_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 5,
+    "title": "Escala de Inteligencia Wechsler para Niños IV",
+    "acronym": "WICS-IV",
+    "area": "Clínica de Inteligencia y Desarrollo Escolar",
+    "description": "Evaluación de la capacidad intelectual de los niños de 6 años 0 meses a 16 años 11 meses.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgG8oaMJBAX_jaPs6pHE7V3H5NI80fq9k7g&s",
+    "copies": 1
+  },
+  {
+    "id": 6,
+    "title": "Escala Wechsler para Adultos III",
+    "acronym": "WAIS-III",
+    "area": "Clínica de Inteligencia y Desarrollo Escolar",
+    "description": "Evaluación de la capacidad intelectual de los adultos de 16 a 94 años.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzFb_AvNe3kgpbC58MK_3ATkko2F1DlnLGA&s",
+    "copies": 1
+  },
+  {
+    "id": 7,
+    "title": "Instrumento No Verbal de Inteligencia III",
+    "acronym": "BETA-III",
+    "area": "Clínica de Inteligencia y Desarrollo Escolar",
+    "description": "Evaluar de manera rápida las capacidades intelectuales no verbales de los adultos.",
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/98/41/9841f122886ad0939ab99329133e9a25.jpg",
+    "copies": 1
+  },
+  {
+    "id": 8,
+    "title": "Prueba de Inteligencia Otis",
+    "acronym": "OTIS",
+    "area": "Clínica de Inteligencia y Desarrollo Escolar, RRHH",
+    "description": "Evaluación de la capacidad intelectual mediante un cuestionario tipo ómnibus, para adultos.",
+    "image": "https://www.meditecpanama.com/wp-content/uploads/2017/09/OTIS20121.gif",
+    "copies": 1
+  },
+  {
+    "id": 9,
+    "title": "Test de Clasificación de Tarjetas de Wisconsin",
+    "acronym": "WISC-ONSIN",
+    "area": "Clínica Neuropsicológica",
+    "description": "Evaluación neuropsicológica de varios componentes de las funciones ejecutivas, como el razonamiento abstracto, la formación de categorías, la solución de problemas y la perseverancia, para personas de 6 años y medio a 89 años.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdsTaV-71x__q_KuVFQyR0hjo8WePmxG5Yw&s",
+    "copies": 1
+  },
+  {
+    "id": 10,
+    "title": "Test de Aptitudes Diferenciales VDAT-V",
+    "acronym": "VDAT-V",
+    "area": "Clínica de Inteligencia y Desarrollo, Aptitudes",
+    "description": "Batería para la evaluación de aptitudes. Nivel 1: de 1º a 4º curso de ESO, Ciclos Formativos de Grado Medio y adultos. Nivel 2: 1º y 2º de Bachillerato, Ciclos Formativos de Grado Superior y adultos.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/d/a/dat-5_manual.jpg",
+    "copies": 1
+  },
+  {
+    "id": 11,
+    "title": "Test de Orientación Motivacional",
+    "acronym": "TOM",
+    "area": "RRHH - Motivación e Intereses",
+    "description": "Evaluación de las principales motivaciones u orientaciones laborales. Evalúa cuatro tendencias motivacionales: Orientación a los objetivos, Orientación a la innovación, Orientación al liderazgo y Orientación a las relaciones. Además, incluye una escala para evaluar la deseabilidad social.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr6cwUBWu8Rzj1ET2apSmV0obOisw6U3nYw&s",
+    "copies": 1
+  },
+  {
+    "id": 12,
+    "title": "Escala de Motivaciones Psicosociales",
+    "acronym": "MPS",
+    "area": "RRHH - Motivación e Intereses",
+    "description": "Proporciona información en relación con 6 áreas motivacionales y cinco componentes de las mismas, sobre todo en el ámbito laboral. Para adultos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgEihiD68kewQdX00M1lJX0BqtyAN3cziDLg&s",
+    "copies": 1
+  },
+  {
+    "id": 13,
+    "title": "Inventario de Intereses y Preferencias Profesionales Revisado",
+    "acronym": "IPP-R",
+    "area": "Escolar, RRHH - Motivación e Intereses",
+    "description": "Apreciación de los intereses en 15 campos de actividad profesional, teniendo en cuenta las profesiones y las actividades correspondientes. Para adolescentes y adultos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpe6Ch7tNltl3_NlU5nolovfy0ns702R3XA&s",
+    "copies": 1
+  },
+  {
+    "id": 14,
+    "title": "Cuestionario General de Intereses",
+    "acronym": "KUDE-R",
+    "area": "Escolar, RRHH - Motivación e Intereses",
+    "description": "Evaluar intereses de modo general, tanto en estudiantes de nivel primario (últimos años) y secundario como en adultos que reingresan al mercado laboral.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDlTj1F0pXWAyNteEMij6qMwH933DH4TsCQ&s",
+    "copies": 1
+  },
+  {
+    "id": 15,
+    "title": "Inventario de Ansiedad Rasgo-Estado",
+    "acronym": "IDARE",
+    "area": "Clínica - Ansiedad, Estrés y Depresión",
+    "description": "Medir dos dimensiones de ansiedad: Estado (se refiere a cómo se siente el sujeto en ese momento) y Rasgo (cómo se siente generalmente). Para personas con nivel educativo medio-superior en adelante.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZjxqByDgpHtPEAAoZq5_B2Mm82LJLcYkng&s",
+    "copies": 1
+  },
+  {
+    "id": 16,
+    "title": "Examen Cognoscitivo MiniMental",
+    "acronym": "MINIMENTAL",
+    "area": "Clínica - Neuropsicología",
+    "description": "Adaptación española de una de las pruebas clínicas más reconocidas y utilizadas para la valoración de las funciones cognitivas y del estado mental en adultos.",
+    "image": "https://www.meditecpanama.com/wp-content/uploads/2017/10/MMSE-Cubierta1.jpg",
+    "copies": 1
+  },
+  {
+    "id": 17,
+    "title": "Clima Laboral",
+    "acronym": "CLA",
+    "area": "RRHH - Salud Laboral",
+    "description": "Cuestionario para la evaluación del ambiente laboral en la empresa que ofrece una puntuación global del clima y de 8 dimensiones diferentes agrupadas en dos grandes ejes: persona y empresa.",
+    "image": "https://web.teaediciones.com/ImagesProductos/CLA4.gif",
+    "copies": 1
+  },
+  {
+    "id": 18,
+    "title": "Cuestionario de Personalidad para Niños",
+    "acronym": "CPQ",
+    "area": "Clínica, Escolar - Personalidad",
+    "description": "Evaluación de 14 rasgos de primer orden y 3 dimensiones globales de la personalidad en niños en edad escolar. Incluye una escala de Habilidad mental o Inteligencia, en niños de 8 a 12 años de edad (de 3º de Primaria a 1.º de la ESO).",
+    "image": "https://web.teaediciones.com/ImagesProductos/CPQ1.gif",
+    "copies": 1
+  },
+  {
+    "id": 19,
+    "title": "Cuestionario de Personalidad para Adolescentes",
+    "acronym": "16 PFAPQ",
+    "area": "Clínica, Escolar - Personalidad",
+    "description": "Evaluación de 16 variables de la personalidad y 5 dimensiones globales en adolescentes. Incluye una sección dedicada a la evaluación de preferencias ocupacionales y otra a los problemas personales, para adolescentes entre 12 y 19 años (De 1º de E.S.O. a 2º de Bachillerato).",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuV8-mSwIDj4AzAjmEzqQ66pGbBwgUDZKDNg&s",
+    "copies": 1
+  },
+  {
+    "id": 20,
+    "title": "Cuestionario de Personalidad de 16 Factores V",
+    "acronym": "16 PF5",
+    "area": "Clínica, Escolar, RRHH - Personalidad",
+    "description": "Evaluación de 16 escalas primarias y 5 dimensiones globales de la personalidad en sujetos normales.",
+    "image": "https://web.teaediciones.com/ImagesProductos/16PF-52.gif",
+    "copies": 1
+  },
+  {
+    "id": 21,
+    "title": "Inventario Multifásico de Personalidad de Minnesota",
+    "acronym": "MMPI-2",
+    "area": "Clínica - Psicopatología y Forense",
+    "description": "Evaluación de la personalidad normal y patológica en adultos.",
+    "image": "https://web.teaediciones.com/ImagesProductos/MMPI-2_cubierta1.jpg",
+    "copies": 1
+  },
+  {
+    "id": 22,
+    "title": "Inventario de Evaluación de la Personalidad",
+    "acronym": "PAI",
+    "area": "Clínica - Psicopatología y Forense",
+    "description": "Evaluación de las características de la personalidad más relevantes en la evaluación clínica y forense, para adultos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDbR2bNqa1EH3-oHTgDLXjahntMpXTGbeQA&s",
+    "copies": 1
+  },
+  {
+    "id": 23,
+    "title": "Test de Apercepción Temática",
+    "acronym": "TAT, CATA, CAT-H",
+    "area": "Clínica - Proyectivos",
+    "description": "Evaluación de diversos aspectos de la personalidad (impulsos, emociones, sentimientos, complejos, conflictos, etc.) en situaciones clínicas y normales. CAT de 3 a 10 años y TAT de 14 años en adelante.",
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/f9/36/f9362c6b6acd142a7bbb61de5cef5efd.jpg",
+    "copies": 1
+  },
+  {
+    "id": 24,
+    "title": "Test de Casa, Árbol y Persona",
+    "acronym": "HTP",
+    "area": "Clínica - Proyectivos, Escolar - Proyectivos",
+    "description": "Evaluación de la forma en que los sujetos experimentan su yo en relación con los demás y con su ambiente familiar. Facilita la proyección de los elementos de la personalidad del evaluado y sus áreas de conflicto. Evalúa personalidad de los 8 años en adelante.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-aGmbLTcaJGWZlzUmtSqos2o-rxdy_vViqQ&s",
+    "copies": 1
+  },
+  {
+    "id": 25,
+    "title": "Test Grafosómico de Personalidad",
+    "acronym": "WART-EGG",
+    "area": "Clínica - Proyectivos, RRHH - Personalidad",
+    "description": "Análisis de aspectos dinámicos de la personalidad, manejo de ansiedades y frustraciones; expectativas, ambiciones y proyecto de vida; utilización de energía vital para el logro de objetivos en adultos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8jDlki47455mHl_z_BkufnNdMYzPDsAC0Q&s",
+    "copies": 1
+  },
+  {
+    "id": 26,
+    "title": "Test de Dibujo de 2 Figuras",
+    "acronym": "T2F",
+    "area": "Clínica - Proyectivos, Escolar - Proyectivos",
+    "description": "Evaluación, de manera objetiva y precisa, de los aspectos madurativos y emocionales del niño de 5 a 12 años.",
+    "image": "https://web.teaediciones.com/ImagesProductos/T2F1.gif",
+    "copies": 1
+  },
+  {
+    "id": 27,
+    "title": "Test Gestáltico Visomotor",
+    "acronym": "BENDER",
+    "area": "Clínica - Neuropsicología",
+    "description": "Exploración del nivel de maduración de los niños y adultos deficientes, de la pérdida de función y defectos cerebrales orgánicos en adultos y en niños, así como de las desviaciones de la personalidad, en especial fenómenos de regresión. Evalúa personas a partir de los 4 años.",
+    "image": "https://web.teaediciones.com/ImagesProductos/bender1.gif",
+    "copies": 1
+  },
+  {
+    "id": 28,
+    "title": "Test de Copia de una Figura Compleja",
+    "acronym": "REY",
+    "area": "Clínica - Neuropsicología",
+    "description": "Prueba clásica de gran utilidad clínica y muy usada en neuropsicología para la evaluación de la capacidad visoperceptiva y visomotora y de la memoria visoespacial. Evalúa personas de 4 a 15 años y adultos con alteraciones cognitivas.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7a1AhhvHjt-SknPydadwJ64eKiH2wepqxag&s",
+    "copies": 1
+  },
+  {
+    "id": 29,
+    "title": "Diagnóstico Neuropsicológico de Adultos",
+    "acronym": "LURIA DNA",
+    "area": "Clínica - Neuropsicología",
+    "description": "Examen neuropsicológico de los procesos corticales superiores (Lenguaje, Memoria, Atención y Funciones visoespaciales) y sus trastornos siguiendo el modelo de Luria. Para adultos y niños a partir de 7 años.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDjjRRl-AhXl_JIx6asnov6_4u5g9N9wntA&s",
+    "copies": 1
+  },
+  {
+    "id": 30,
+    "title": "Test de Barcelona",
+    "acronym": "TBR",
+    "area": "Clínica - Neuropsicología",
+    "description": "Evaluar procesos cognitivos, detección de afasias. Mide cuantitativa y cualitativamente los rendimientos de los pacientes de 5 años hasta los 90 años.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_2s1QStlqycVRABlu32yuOSEoS_1zfNZ80Q&s",
+    "copies": 1
+  },
+  {
+    "id": 31,
+    "title": "Evaluación Neuropsicológica Infantil",
+    "acronym": "ENI",
+    "area": "Clínica - Neuropsicología",
+    "description": "Evaluar las características neuropsicológicas de niños y jóvenes en edad escolar (5 a 16 años). Valorar las características de las habilidades cognoscitivas y conductuales que se considera reflejo de la integridad del Sistema Nervioso Central.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bNXxX4-fgD54XSFI3smGGQLpvKzkAHRqJA&s",
+    "copies": 1
+  },
+  {
+    "id": 32,
+    "title": "Evaluación Neuropsicológica Infantil 2",
+    "acronym": "ENI-2",
+    "area": "Clínica - Neuropsicología",
+    "description": "Evaluar las características neuropsicológicas de niños y jóvenes en edad escolar (5 a 16 años). Valorar las características de las habilidades cognoscitivas y conductuales que se considera reflejo de la integridad del Sistema Nervioso Central.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074483543_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 33,
+    "title": "Competencias Académicas Básicas",
+    "acronym": "CAB",
+    "area": "Escolar - Intereses Profesionales",
+    "description": "Optimizar el rendimiento académico en estudiantes de nivel primaria y secundaria por medio de diversos ejercicios, lecturas, estrategias de autocontrol de comportamientos y técnicas de estudio que permitan a los alumnos adquirir un aprendizaje significativo de los distintos temas que comprenden los programas escolares, para estudiantes de último grado de primaria y de nivel secundaria.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYb79J6-WwBeyUoByPDE48z1o-Ib4DLOIvpQ&s",
+    "copies": 1
+  },
+  {
+    "id": 34,
+    "title": "Método de Evaluación de Percepción Visual",
+    "acronym": "FROSTIG",
+    "area": "Clínica - Neuropsicología, Escolar - Neuropsicología",
+    "description": "Prueba para la evaluación de retrasos en la madurez perceptiva de niños de 4 a 7 años, con dificultades de aprendizaje. Evalúa los siguientes aspectos de la percepción visual: Coordinación visomotora, Discriminación figura-fondo, Constancia de forma, Posiciones en el espacio y Relaciones espaciales.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074485745_1.jpg",
+    "copies": 1
+  },
+  {
+    "id": 35,
+    "title": "Test Breve de Inteligencia de Kaufman",
+    "acronym": "K-BIT",
+    "area": "Clínica - Inteligencia y Desarrollo, Escolar - Inteligencia y Desarrollo",
+    "description": "Evaluación de la capacidad intelectual verbal y no verbal. Para personas de 4 a 90 años.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/k/-/k-bit_manual.jpg",
+    "copies": 1
+  },
+  {
+    "id": 36,
+    "title": "Test de Matrices Progresivas de Raven",
+    "acronym": "RAVEN",
+    "area": "Clínica - Inteligencia y Desarrollo, Escolar - Inteligencia y Desarrollo",
+    "description": "Medida de la “educción de relaciones” para personas de 12 a 65 años.",
+    "image": "https://imgv2-1-f.scribdassets.com/img/document/36589932/original/ad5143f301/1?v=1",
+    "copies": 1
+  },
+  {
+    "id": 37,
+    "title": "Inventario Clínico Multiaxial de Millon III",
+    "acronym": "MILLON-III",
+    "area": "Clínica - Personalidad, Clínica - Psicopatología y Forense",
+    "description": "Evaluación de 4 escalas de control, 11 patrones clínicos de personalidad, 3 rasgos patológicos, 7 síndromes de gravedad moderada y 3 síndromes de gravedad severa, en adultos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLRoMfZhyY3095Ocj2mjJH0yplC5mUMx8f2w&s",
+    "copies": 1
+  },
+  {
+    "id": 38,
+    "title": "Escala de Violencia en el Trabajo (Mobbing)",
+    "acronym": "EVT",
+    "area": "RRHH - Salud Laboral",
+    "description": "Evaluar 16 factores relacionados con el mobbing, clasificados en cuatro grupos: Hostigamiento y destrucción, Aislamiento emocional, Dominación y desprecio, Hostilidad encubierta. En personal en edad laboral.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074483024_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 39,
+    "title": "Instrumento de Codependencia",
+    "acronym": "ICOD",
+    "area": "Clínica - Familia y Pareja",
+    "description": "Detectar la prevalencia de codependencia y sus factores asociados en mujeres de 18 a 65 años y describir los factores asociados con la presencia de este problema.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9Ap1hRGI8EKAgoJFx1vC_YVEIAxvp_aevg&s",
+    "copies": 1
+  },
+  {
+    "id": 40,
+    "title": "Batería Neuropsicológica Breve Atención y Memoria",
+    "acronym": "NEUROPSI",
+    "area": "Clínica - Neuropsicología, Escolar - Neuropsicología",
+    "description": "Evalúa un amplio espectro de funciones cognoscitivas en pacientes psiquiátricos, geriátricos, neurológicos y pacientes con diversos problemas médicos. Para pacientes de 16 a 85 años.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0p2Cc-VuZqIOW9DkL0u-kfxK77FTZ4pqKQ&s",
+    "copies": 1
+  },
+  {
+    "id": 41,
+    "title": "Escala de Desgaste Ocupacional (Burnout)",
+    "acronym": "EDO",
+    "area": "RRHH - Salud Laboral",
+    "description": "Evaluar, a través de la aplicación de 130 reactivos, el desgaste ocupacional en adultos dentro de su vida laboral, para personas en edad laboral.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074480504_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 42,
+    "title": "Test de Aptitudes Diferenciales",
+    "acronym": "DAT",
+    "area": "Clínica - Inteligencia y Desarrollo, Escolar - Aptitudes",
+    "description": "Batería para la evaluación de aptitud. Nivel 1: de 1º a 4º curso de ESO, Ciclos Formativos de Grado Medio y adultos. Nivel 2: 1º y 2º de Bachillerato, Ciclos Formativos de Grado Superior y adultos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkJeE6YPu5zpuvpGigXIhpnY7G50Xb0-xrg&s",
+    "copies": 1
+  },
+  {
+    "id": 43,
+    "title": "Escala de Memoria Wechsler IV",
+    "acronym": "WMS-IV",
+    "area": "Clínica - Memoria",
+    "description": "Evaluación de la memoria en profundidad para personas de 18 a 89 años.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTVSH0FtsDXz4IH9i1aG01FSWEMxApQKypA&s",
+    "copies": 1
+  },
+  {
+    "id": 44,
+    "title": "Escala de Aptitudes y Psicomotricidad para Niños",
+    "acronym": "McCARTHY",
+    "area": "Clínica - Inteligencia y Desarrollo, Escolar - Inteligencia y Desarrollo",
+    "description": "Evaluación del desarrollo cognitivo y psicomotor en niños de 2 años y medio hasta 8 años y medio.",
+    "image": "https://www.psicolibros.com.co/wp-content/uploads/2016/01/peq12022014-BODEGON-MSCA-web.jpg-600x600.png.jpg",
+    "copies": 1
+  },
+  {
+    "id": 45,
+    "title": "Escala de Ansiedad Manifiesta en Niños Revisada",
+    "acronym": "CMAS R-2",
+    "area": "Clínica - Ansiedad, Estrés y Depresión",
+    "description": "Evaluar en nivel y naturaleza la ansiedad en niños, a través de respuestas sí o no dentro de un formato, para niños y adolescentes de 6 a 19 años.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074482652_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 46,
+    "title": "Inventario Autodescriptivo del Adolescente",
+    "acronym": "IADA",
+    "area": "Clínica - Adaptación y Conducta, Escolar - Adaptación y Conducta",
+    "description": "Descripción de diversas dimensiones del ambiente del adolescente basada en la descripción que el adolescente hace de sí mismo. Evaluar la presencia de algunos indicadores de riesgo de conductas problemáticas en adolescentes de 13 a 19 años.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074480498_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 47,
+    "title": "Rorschach Test",
+    "acronym": "RORSCHACH",
+    "area": "Clínica - Proyectivos",
+    "description": "Método proyectivo de psicodiagnóstico creado para la evaluación de diversos aspectos de la personalidad profunda. Para jóvenes y adultos.",
+    "image": "https://m.media-amazon.com/images/I/61idZx7KlqL._AC_UF1000,1000_QL80_.jpg",
+    "copies": 1
+  },
+  {
+    "id": 48,
+    "title": "Sistema de Evaluación para Personas Plurideficientes",
+    "acronym": "SEPP",
+    "area": "Clínica - Intervención",
+    "description": "Evaluación de personas afectadas por deficiencias múltiples: psíquicas, sensoriales y/o físicas.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnD1dro6aFTUUpo-Lo9qog5b8-OXegflVjqw&s",
+    "copies": 1
+  },
+  {
+    "id": 49,
+    "title": "Test de Goodenough",
+    "acronym": "GOOD ENOUGH",
+    "area": "Clínica - Inteligencia y Desarrollo, Escolar - Inteligencia y Desarrollo",
+    "description": "Medir el nivel mental del niño, en forma individual o colectiva.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIXBcFNTLExWRKm1GooSnhhufzJAnTeNAHg&s",
+    "copies": 1
+  },
+  {
+    "id": 50,
+    "title": "La Afasia: Material de Exploración",
+    "acronym": "LA AFASIA",
+    "area": "Clínica - Intervención",
+    "description": "Diagnóstico, exploración e intervención de las diversas topologías afásicas.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSvs2Tu4kl0POACXK6k5YSbRMf3P30JFk_3w&s",
+    "copies": 1
+  },
+  {
+    "id": 51,
+    "title": "Escala de Ansiedad Manifiesta en Adultos",
+    "acronym": "AMAS",
+    "area": "Clínica - Ansiedad, Estrés y Depresión",
+    "description": "Evaluar el nivel de ansiedad experimentado por personas adultas (adultez temprana, edad media y adultez tardía o ancianidad). A: 19-59 años, E: 60 o más años, C: estudiantes universitarios.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9789707292420_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 52,
+    "title": "Test de Habilidades Mentales Primarias",
+    "acronym": "THURSTONE",
+    "area": "Clínica - Inteligencia y Desarrollo",
+    "description": "Evalúa la inteligencia a partir de diferentes aptitudes (Comprensión verbal, comprensión espacial, Raciocinio, Manejo de números, Fluidez verbal) de forma independiente entre ellas, ayudando a identificar habilidades en el individuo.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEEA33s7eZVdq0NUNxHeMPtd40ndhTcXF_tg&s",
+    "copies": 1
+  },
+  {
+    "id": 53,
+    "title": "Inventario de Satisfacción Marital Revisado",
+    "acronym": "MSI-R",
+    "area": "Clínica - Familia y Pareja",
+    "description": "Identifica los factores de tensión que originan conflictos en la pareja, enfocándose en las posibilidades de implementar un trabajo de intervención. Para parejas sin rango de edad.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFe7IqQtVYujmhKqxcJb3HpeUXmmJhJwuDg&s",
+    "copies": 1
+  },
+  {
+    "id": 54,
+    "title": "Test de Apercepción Temática",
+    "acronym": "TAT",
+    "area": "Clínica - Proyectivos",
+    "description": "Evaluación de diversos aspectos de la personalidad (impulsos, emociones, sentimientos, complejos, conflictos, etc.) en situaciones clínicas y normales, en adultos.",
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/f9/36/f9362c6b6acd142a7bbb61de5cef5efd.jpg",
+    "copies": 1
+  },
+  {
+    "id": 55,
+    "title": "Cuestionario de Conductas Antisociales y Delictivas",
+    "acronym": "A-D",
+    "area": "Clínica - Adaptación y Conducta, Escolar - Adaptación y Conducta",
+    "description": "Cuestionario factorial de 40 elementos que evalúa la conducta antisocial y el comportamiento delictivo (fuera de la ley). En jóvenes de 11-19 años.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/6/9684268912_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 56,
+    "title": "Test de Apercepción Infantil",
+    "acronym": "CAT-A",
+    "area": "Clínica - Proyectivos",
+    "description": "Método proyectivo para explorar la personalidad estudiando el sentido dinámico de las diferencias individuales en la percepción de estímulos visuales en niños de 3 a 10 años.",
+    "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/78/6f/786f77dba238e771472e99840939033d.jpg",
+    "copies": 1
+  },
+  {
+    "id": 57,
+    "title": "Procesos Evolutivos - Escala Observacional del Desarrollo",
+    "acronym": "EOD17",
+    "area": "Clínica - Intervención, Clínica - Inteligencia y Desarrollo",
+    "description": "Instrumento diagnóstico del estado de desarrollo, del nacimiento hasta la adolescencia.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXw31B1XRzNGwIaD0nPzxYYxx9cB7z4b8VVg&s",
+    "copies": 1
+  },
+  {
+    "id": 58,
+    "title": "Batería de Aptitudes Diferenciales Generales",
+    "acronym": "BADYG",
+    "area": "Clínica - Inteligencia y Desarrollo",
+    "description": "Discriminar aptitudes básicas en escolares de 4 a 6 años al mismo tiempo que se obtienen estimaciones de aptitudes más generales como factores de grupo y de la más general, de Inteligencia General.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHzgg7WPcIgFTEjwMq_ry1VnbJKQy5MSMNA&s",
+    "copies": 1
+  },
+  {
+    "id": 59,
+    "title": "Prueba de Frases Incompletas - Aplicación a la Industria",
+    "acronym": "FIGS",
+    "area": "RRHH - Personalidad",
+    "description": "Evaluar la posibilidad de una integración conveniente del examinando a la organización de trabajo.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/6/9684267738_6.jpg",
+    "copies": 1
+  },
+  {
+    "id": 60,
+    "title": "Evaluación Psicogerontológica",
+    "acronym": "PSICO GERONTOL",
+    "area": "Clínica - Psicogeriatría",
+    "description": "Recopilación de instrumentos de evaluación en psicogerontología, el objetivo de cada instrumento, enfatizando su importancia y justificación.",
+    "image": "https://imgv2-1-f.scribdassets.com/img/document/484819744/original/3200ce228c/1?v=1",
+    "copies": 1
+  },
+  {
+    "id": 61,
+    "title": "Escala de Evaluación de Habilidades Sociales para Adolescentes",
+    "acronym": "EESH-A",
+    "area": "Escolar - Adaptación y Conducta",
+    "description": "Medida de las habilidades sociales en población adolescente.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074483994_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 62,
+    "title": "Manual de Psicoterapia Breve y de Urgencia",
+    "acronym": "BELLA K",
+    "area": "Clínica - Intervención",
+    "description": "Surgió como una necesidad de brindar apoyo rápido y concreto para aquellos pacientes que, por el contexto en que se encontraban, era muy difícil proporcionarles un tratamiento más prolongado y profundo para sus problemas.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/6/9684266057-9786074483628.jpg",
+    "copies": 1
+  },
+  {
+    "id": 63,
+    "title": "Inventario de Calidad de Vida",
+    "acronym": "InCaViSa",
+    "area": "Clínica - Ansiedad, Estrés y Depresión",
+    "description": "Medir la calidad de vida de pacientes en una escala lo suficientemente inclusiva como para emplearse en cualquier condición crónica o aguda y sensible al efecto de las intervenciones.",
+    "image": "https://files.ekmcdn.com/5531c5/images/incavisa-inventario-de-calidad-de-vida-y-salud-riveros-prueba-completa-descatalogada-591-p.jpg",
+    "copies": 1
+  },
+  {
+    "id": 64,
+    "title": "Prueba Psicológica de Memoria y Aprendizaje Visual",
+    "acronym": "DCS",
+    "area": "Clínica - Neuropsicología",
+    "description": "Evaluar de manera cualitativa y cuantitativa la memoria y el aprendizaje visuales en personas con alteraciones neuropsicológicas.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWy3DRKmNADMYDHwlAGWqqi34Z9y9b7vyTg&s",
+    "copies": 1
+  },
+  {
+    "id": 65,
+    "title": "Perfil de Estrés",
+    "acronym": "NOWACK",
+    "area": "Clínica - Ansiedad, Estrés y Depresión",
+    "description": "Evalúa 15 áreas relacionadas con el estrés y el riesgo para la salud en las personas de 20 a 68 años.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/b8ea4ec0c3e6498d7bcbe09be31fa100/9/6/9684269706.jpg",
+    "copies": 1
+  },
+  {
+    "id": 66,
+    "title": "Inventario de Personalidad",
+    "acronym": "P-IPG",
+    "area": "RRHH - Personalidad",
+    "description": "Medir rasgos estables de la personalidad y un factor de autoestima relacionados con la adaptación y la eficiencia del sujeto en situaciones sociales, educativas y laborales. Evalúa adolescentes y adultos.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/6/9684266464_6.jpg",
+    "copies": 1
+  },
+  {
+    "id": 67,
+    "title": "Sucesos de Vida",
+    "acronym": "VIDA",
+    "area": "Clínica - Ansiedad, Estrés y Depresión",
+    "description": "Detectar problemas emocionales en adolescentes de 13 a 18 años, a partir de los sucesos estresantes a los que el individuo se ha enfrentado y la evaluación afectiva que hace de tales sucesos.",
+    "image": "https://imgv2-2-f.scribdassets.com/img/document/511249807/original/160f74207a/1?v=1",
+    "copies": 1
+  },
+  {
+    "id": 68,
+    "title": "Escala Gilliam para Evaluar Trastorno de Asperger",
+    "acronym": "GADS",
+    "area": "Clínica - Autismo",
+    "description": "Ayuda en la identificación de personas que padecen trastorno de Asperger y diferenciar los rasgos con los de otros trastornos, para personas de 3 a 22 años de edad.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC1OX-PUa1Hd0OBQf5897852YgT0EzaILhmg&s",
+    "copies": 1
+  },
+  {
+    "id": 69,
+    "title": "Escala Multidimensional de Asertividad",
+    "acronym": "EMA",
+    "area": "Clínica - Autoestima",
+    "description": "Evalúa el tipo y grado de asertividad que presente el individuo, para adolescentes de 15 años en adelante y adultos.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9707290749_6.jpg",
+    "copies": 1
+  },
+  {
+    "id": 70,
+    "title": "Entrevista para Síndromes Psiquiátricos en Niños y Adolescentes",
+    "acronym": "ChIPS",
+    "area": "Clínica - Psicopatología y Forense",
+    "description": "Obtener información de manera rápida y eficiente que permita al clínico sondear la presencia de 20 trastornos en niños y adolescentes (6 a 18 años).",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/6/9684269161_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 71,
+    "title": "Test de Habilidades de Negociación",
+    "acronym": "NEGO",
+    "area": "RRHH - Aptitudes",
+    "description": "Evaluación de diferentes aspectos implicados en la negociación (ascendencia, sumisión, argumentos, respuestas vulgares, etc.) para adolescentes y adultos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXPOLX0m2fw-MorGeoZ_nH1BnNwkhWmkH78g&s",
+    "copies": 1
+  },
+  {
+    "id": 72,
+    "title": "Búsqueda Autodirigida",
+    "acronym": "SDS",
+    "area": "Clínica - Aptitudes",
+    "description": "Indagar junto con el alumno la relación entre actividades, habilidades y ocupaciones que le permitan reconocer sus capacidades, rendimiento, motivaciones e intereses, aptitudes y personalidad. Para personas con estudios a partir del nivel medio.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtNwiv0e_9stB-JqlO0-1_CesjLeGWv_DJg&s",
+    "copies": 1
+  },
+  {
+    "id": 73,
+    "title": "Cuestionario de Evaluación de Calidad de Vida en Alumnos Adolescentes",
+    "acronym": "CCVA",
+    "area": "Clínica - Adaptación y Conducta",
+    "description": "Dirigido a alumnos entre 12 y 18 años con Necesidades Educativas Especiales (N.E.E) y sin ellas, evaluando: Bienestar emocional, Integración en la comunidad, Relaciones interpersonales, Desarrollo personal, Bienestar físico, Autodeterminación y Bienestar material.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXLcXJf_ggNgMvEtiDcQargUZ_8MFZwfo7Q&s",
+    "copies": 1
+  },
+  {
+    "id": 74,
+    "title": "Cuestionario de Sobre Ingesta Alimentaria",
+    "acronym": "OQ",
+    "area": "Clínica - Trastornos de Alimentación",
+    "description": "Evalúa hábitos, pensamientos y actitudes vinculados con el sobrepeso y la obesidad, con el fin de planear programas de reducción de peso personalizados y eficaces.",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9789707293113_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 75,
+    "title": "Cuestionario de Conductas Antisociales en Infancia y Adolescencia",
+    "acronym": "CASIA",
+    "area": "Clínica - Adaptación y Conducta",
+    "description": "Evaluación de la conducta antisocial de niños y adolescentes de 8 a 15 años.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14JjkZya6FOjr60NpiNRj_NDcAM_0XEzLuQ&s",
+    "copies": 1
+  },
+  {
+    "id": 76,
+    "title": "Cuestionario de Rasgos Temperamentales",
+    "acronym": "THURSTONE-T",
+    "area": "Clínica - Personalidad",
+    "description": "Descubrir estos aspectos temperamentales de los individuos adolescentes y adultos.",
+    "image": "https://imgv2-1-f.scribdassets.com/img/document/495595540/original/3ec1695c73/1?v=1",
+    "copies": 1
+  },
+  {
+    "id": 77,
+    "title": "Inventario MacArthur de Desarrollo de Habilidades Comunicativas",
+    "acronym": "CDI",
+    "area": "Clínica - Inteligencia y Desarrollo",
+    "description": "Evaluar las habilidades de comunicación en niños de 8 a 30 meses de edad.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkusokWxI_cPuqX7lvKrWHkZbkZFjZFRlJQ&s",
+    "copies": 1
+  },
+  {
+    "id": 78,
+    "title": "Batería Neuropsicológica de Funciones Ejecutivas y Lóbulos Frontales",
+    "acronym": "BANFE-2",
+    "area": "Clínica - Neuropsicológica",
+    "description": "Tiene el objetivo de evaluar el desarrollo de las Funciones Ejecutivas en personas de habla hispana desde los 6 años de edad hasta la edad adulta (80 años).",
+    "image": "https://colombia.manualmoderno.com/media/catalog/product/cache/51cdc5b78ca4f54096cdb41029ff28e5/9/7/9786074483871_5.jpg",
+    "copies": 1
+  },
+  {
+    "id": 79,
+    "title": "Evaluación Global de Estrés Postraumático",
+    "acronym": "EGEP-5",
+    "area": "Clínica - Ansiedad, Estrés y Depresión",
+    "description": "Evaluación de la sintomatología y diagnóstico del trastorno por estrés postraumático (TEPT) según los criterios del DSM-5 en víctimas adultas de distintos acontecimientos traumáticos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6RhwJ5nxBR_g4GRaRsGJsi-2mPN4Dxt2_Q&s",
+    "copies": 1
+  },
+  {
+    "id": 80,
+    "title": "Escala de Evaluación de Psicopatía Hare Revisada",
+    "acronym": "PCL-R",
+    "area": "Clínica - Psicopatología y Forense",
+    "description": "Instrumento de medida de la psicopatía en contextos forenses, clínicos y de investigación.",
+    "image": "https://crimipedia.umh.es/files/2015/06/PCL-R.jpg",
+    "copies": 1
+  }
 ]
