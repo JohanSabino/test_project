@@ -13,7 +13,19 @@
         <v-btn class="toggle-theme" @click="toggleTheme">🌙</v-btn>
       </v-col>
   </v-row>
-    <ContentPage/>
+  <v-row id="body">
+    <v-col cols="12" md="8">
+      <ContentPage/>
+    </v-col>
+    <v-col cols="12" md="4">
+      <div class="aside-container">
+        <AsideIa/> 
+        </div>
+    </v-col>
+
+    
+  </v-row>
+    
   </div>
 </template>
 
@@ -21,12 +33,13 @@
 import { useTheme } from 'vuetify'
 import HeaderPage from './components/HeaderPage.vue'
 import ContentPage from './components/ContentPage.vue';
-
+import AsideIa from './components/AsideIa.vue'
 export default {
   name: 'App',
   components: {
     HeaderPage,
     ContentPage,
+    AsideIa,
   },
   setup() {
     const theme = useTheme()
@@ -68,5 +81,12 @@ export default {
 
 .toggle-theme:hover {
   background-color: #222;
+}
+.aside-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Ocupa toda la altura de la columna */
 }
 </style>
