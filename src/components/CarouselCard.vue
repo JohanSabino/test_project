@@ -126,30 +126,51 @@ export default {
 <style scoped>
 
 div #forms {
-
   padding: 1% 7% 0% 7%;
 }
 
+/* Reducir márgenes del carrusel en móviles */
 div #carousel {
-  margin: 0px 80px 0px 80px ;
+  margin: 0px 80px;
 }
-img{
+
+@media (max-width: 960px) {
+  div #carousel {
+    margin: 0px 20px;
+  }
+}
+
+/* Ajustar tamaño de imagen para móviles */
+img {
   width: 10%;
 }
-v-col{
-  border-radius: 10px;
-}
-.d-flex {
-  display: flex;
-  align-items: center; }
 
-.text-h2 {
-  font-size: 5rem; 
+@media (max-width: 600px) {
+  img {
+    width: 10%; /* Aumenta un poco en pantallas pequeñas */
+  }
 }
-.text-h6 {
-  font-size: 1.5rem;
+
+/* Ajuste de tamaño de texto en móviles */
+@media (max-width: 600px) {
+  .text-h4 {
+    font-size: 1.5rem !important;
+  }
+  .text-h7 {
+    font-size: 1rem !important;
+  }
 }
-.custom-carousel .v-btn {
-  color: black !important;
+
+/* Hacer que los campos de formulario sean de 2 columnas en móviles */
+@media (max-width: 600px) {
+  .v-row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .v-col {
+    flex: 0 0 50%; /* 50% de ancho = 2 columnas */
+    max-width: 50%;
+  }
 }
 </style>

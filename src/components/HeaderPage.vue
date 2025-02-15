@@ -18,29 +18,32 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+/* Ajuste de tamaño del título */
 h1 {
   font-size: 35px;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 15px;
 }
 
+/* Estilos del párrafo */
 p {
   font-size: 20px;
-
+  line-height: 1.5;
+  text-align: center;
+  color: #555;
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
+/* Hacer que el texto se vea bien en móviles */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 28px; /* Reduce el tamaño en pantallas pequeñas */
+  }
+  
+  p {
+    font-size: 18px;
+    padding: 0 10px;
+  }
 }
-
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-a {
-  color: #42b983;
-}
-
 </style>

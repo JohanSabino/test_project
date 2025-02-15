@@ -2,7 +2,6 @@
   <div>
     <v-row>
       <v-col cols="12" md="1">
-      
       </v-col>
       <v-col cols="12" md="10">
         <div id="header">
