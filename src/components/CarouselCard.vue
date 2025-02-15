@@ -188,4 +188,16 @@ img {
     display: block;
   }
 }
+@media (max-width: 500px) {
+  .v-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .v-col {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+}
 </style>

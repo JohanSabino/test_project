@@ -70,9 +70,10 @@ export default {
   z-index: 1000;
   background-color: #444;
   color: white;
-  border-radius: 30%;
+  border-radius: 50%;
   padding: 10px;
   transition: 0.3s;
+  max-width: 10px;
 }
 
 .toggle-theme:hover {
