@@ -42,6 +42,7 @@
         height="600"
         progress="secondary"
         hide-delimiters
+        :hide-arrows="$vuetify.display.mdAndDown"
       >
         <v-carousel-item v-for="test in filteredTests" :key="test.id">
           <v-sheet height="100%">
@@ -198,6 +199,12 @@ img {
   .v-col {
     flex: 0 0 50% !important;
     max-width: 50% !important;
+  }
+}
+@media (max-width: 1264px) {
+  /* Aplica a tablets y móviles */
+  .v-carousel .v-btn {
+    display: none !important; /* Oculta las flechas */
   }
 }
 </style>
