@@ -166,11 +166,20 @@ img {
   .v-row {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center; /* Centra los elementos horizontalmente */
   }
-  
+
   .v-col {
-    flex: 0 0 50%; /* 50% de ancho = 2 columnas */
+    flex: 0 0 50%; /* 2 columnas */
     max-width: 50%;
+    text-align: center; /* Centra el texto dentro de cada columna */
+  }
+
+  /* Centrar el texto de los labels */
+  .v-text-field label {
+    text-align: center;
+    width: 100%;
+    display: block;
   }
 }
 </style>
