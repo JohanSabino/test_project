@@ -1,55 +1,52 @@
 <template>
   <div>
     <v-row>
-      <v-col cols="12" md="1">
-      </v-col>
+      <v-col cols="12" md="1"> </v-col>
       <v-col cols="12" md="10">
         <div id="header">
-          <HeaderPage msg="INVENTARIO DE PRUEBAS - PSICOMETRÍA"/>
-        </div> 
+          <HeaderPage msg="INVENTARIO DE PRUEBAS - PSICOMETRÍA" />
+        </div>
       </v-col>
-      <v-col cols="12" md="1"> 
+      <v-col cols="12" md="1">
         <v-btn class="toggle-theme" @click="toggleTheme">🌙</v-btn>
       </v-col>
-  </v-row>
-  <v-row id="body">
-    <v-col cols="12" md="8">
-      <ContentPage/>
-    </v-col>
-    <v-col cols="12" md="4">
-      <div class="aside-container">
-        <AsideIa/> 
+    </v-row>
+    <v-row id="body">
+      <v-col cols="12" md="8">
+        <ContentPage />
+      </v-col>
+      <v-col cols="12" md="4">
+        <div class="aside-container">
+          <AsideIa />
         </div>
-    </v-col>
-
-    
-  </v-row>
-    
+      </v-col>
+    </v-row>
   </div>
 </template>
 
 <script>
-import { useTheme } from 'vuetify'
-import HeaderPage from './components/HeaderPage.vue'
-import ContentPage from './components/ContentPage.vue';
-import AsideIa from './components/AsideIa.vue'
+import { useTheme } from "vuetify";
+import HeaderPage from "./components/HeaderPage.vue";
+import ContentPage from "./components/ContentPage.vue";
+import AsideIa from "./components/AsideIa.vue";
 export default {
-  name: 'App',
+  name: "App",
   components: {
     HeaderPage,
     ContentPage,
     AsideIa,
   },
   setup() {
-    const theme = useTheme()
+    const theme = useTheme();
 
     function toggleTheme() {
-      theme.global.name.value = theme.global.name.value === 'dark' ? 'light' : 'dark'
+      theme.global.name.value =
+        theme.global.name.value === "dark" ? "light" : "dark";
     }
 
-    return { toggleTheme }
-  }
-}
+    return { toggleTheme };
+  },
+};
 </script>
 
 <style>
@@ -69,11 +66,11 @@ export default {
 .toggle-theme {
   position: fixed;
   top: 20px;
-  right: 30px;
+  right: 10px;
   z-index: 1000;
   background-color: #444;
   color: white;
-  border-radius: 50%;
+  border-radius: 30%;
   padding: 10px;
   transition: 0.3s;
 }
