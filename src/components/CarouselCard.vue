@@ -42,7 +42,7 @@
         height="600"
         progress="secondary"
         hide-delimiters
-        :hide-arrows="$vuetify.display.mdAndDown"
+        :show-arrows="!$vuetify.display.mdAndDown"
       >
         <v-carousel-item v-for="test in filteredTests" :key="test.id">
           <v-sheet height="100%">
